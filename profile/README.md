@@ -1,6 +1,7 @@
 ## Runtimed
 
-We have two primary projects. One for Rust and one for TypeScript.
+We have three primary projects.
 
 * [runtimed](https://github.com/runtimed/runtimed) - Jupyter libraries for Rust
 * [runt](https://github.com/runtimed/runt) - ✨ 🆕 Runtime Agents for a realtime Notebook System ✨
+* [anode](https://github.com/runtimed/anode) - Realtime Agentic Notebook
